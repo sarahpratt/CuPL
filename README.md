@@ -1,5 +1,3 @@
-:warning: Currently this repository only supports the ImageNet dataset. Additional datasets coming soon.
-
 ## Generating customized prompts for zero-shot image classification
 
 This repository contains code to:
@@ -8,6 +6,8 @@ This repository contains code to:
 2. Classify ImageNet using your own (or provided) generated customized prompts
 
 Python version 3.8.9
+
+:warning: Currently this repository only supports the ImageNet dataset. Additional datasets coming soon.
 
 ![alt text](./figs/teaser.png)
 

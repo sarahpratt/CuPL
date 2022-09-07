@@ -5,7 +5,7 @@ This repository contains code to:
 1. Generate your own customized prompts using GPT-3
 2. Classify ImageNet using your own (or provided) generated customized prompts
 
-Python version 3.8.9
+Python version 3.8.9 -- Additional requirements can be found in requirements.txt
 
 :warning: Currently this repository only supports the ImageNet dataset. Additional datasets coming soon.
 

@@ -1,0 +1,4 @@
+.DS_Store
+figs/.DS_Store
+imagenet_classnames/.DS_Store
+imagenet_classnames/__pycache__
